@@ -82,10 +82,10 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton( text="Hᴇʟᴘ", callback_data="help_back"),
-        InlineKeyboardButton(text="📜 Aʙᴏᴜᴛ", callback_data="innexia_"),
+        InlineKeyboardButton(text=" Aʙᴏᴜᴛ", callback_data="innexia_"),
     ], 
     [  InlineKeyboardButton( text="Bᴀꜱɪᴄ Hᴇʟᴘ 👮", callback_data="innexia_basichelp"  ),
-        InlineKeyboardButton(text="💕 Sᴜᴍᴍᴏɴ Mᴇ 💕", url="http://t.me/Innexiabot?startgroup=true"),
+        InlineKeyboardButton(text=" add Mᴇ ", url="http://t.me/Miss_Nemesis_bot?startgroup=true"),
     ],
 ]
 
